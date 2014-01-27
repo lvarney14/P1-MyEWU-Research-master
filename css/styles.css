@@ -1,0 +1,19 @@
+/* Stylesheet */
+
+body {
+	
+	background: black;
+}
+
+h1 {
+	color: white;
+	text-size: 30px;
+	text-align:left;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+
+}
+
